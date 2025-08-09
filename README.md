@@ -49,12 +49,28 @@ portfolio_flask/
    ```
    http://127.0.0.1:5000
    ```
+5. Sample Output
+
+### Home Page
+![Home Page]<img width="902" height="419" alt="home png" src="https://github.com/user-attachments/assets/ebc30d41-1083-4c11-96aa-6231bf590412" />
+
+
+### Contact Page
+![Contact Page]<img width="866" height="783" alt="contact png" src="https://github.com/user-attachments/assets/a54ab02d-a50a-4424-a8fe-fbff82b6018d" />
+
+
+### Thank You Page
+![Thank You Page]<img width="1187" height="470" alt="thankyou png" src="https://github.com/user-attachments/assets/ea3b59b9-f0ea-442f-87a5-f1d738f35547" />
+
+
 
 ## Usage
 
 * Navigate to the home page for an introduction.
 * Use the contact form to submit a message.
 * After submission, the thank-you page will appear and redirect back to the homepage.
+
+
 
 
 
