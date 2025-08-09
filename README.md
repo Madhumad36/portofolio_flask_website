@@ -41,6 +41,8 @@ portfolio_flask/
 
    ```bash
    python app.py
+   #if you are using new version of python , you can also run
+   python3 app.pyi 
    ```
 4. Open the application in your browser:
 
@@ -53,5 +55,6 @@ portfolio_flask/
 * Navigate to the home page for an introduction.
 * Use the contact form to submit a message.
 * After submission, the thank-you page will appear and redirect back to the homepage.
+
 
 
