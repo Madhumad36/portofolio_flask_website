@@ -29,7 +29,7 @@ portfolio_flask/
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
+   git clone <[repository_url](https://github.com/Madhumad36/portofolio_flask_website)>
    cd portfolio_flask
    ```
 2. Install Flask:
@@ -53,4 +53,5 @@ portfolio_flask/
 * Navigate to the home page for an introduction.
 * Use the contact form to submit a message.
 * After submission, the thank-you page will appear and redirect back to the homepage.
+
 
